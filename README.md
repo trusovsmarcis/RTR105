@@ -11,3 +11,8 @@ whoami - info par lietotāju
 ctrl + alt + F1-7 - pārslēgties caur lietotājiem  
 pwd - patreizējā direktorija  
 ls - saraksts pašreizējā direktorijā
+cd - mainīt direktoriju
+cd + tab - saīsināti atrod direktoriju
+cd .. - vienu direktoriju augstāk
+cd ~ - mājas apgabals
+mkdir <nosauk.> - izveidot direktoriju
