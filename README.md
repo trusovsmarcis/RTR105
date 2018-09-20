@@ -16,3 +16,4 @@ cd + tab - saīsināti atrod direktoriju
 cd .. - vienu direktoriju augstāk
 cd ~ - mājas apgabals
 mkdir <nosauk.> - izveidot direktoriju
+edwfx

@@ -1,0 +1,30 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  mkdir Mape
+    5  cd Mape
+    6  mkdit MapeMapee
+    7  mkdir MapeMapee
+    8  #!/bin/bash
+    9  ls -l
+   10  echo $path
+   11  cd
+   12  pwd
+   13  PATH=$PATH;
+   14  PATH=$PATH:
+   15  PATH=$PATH:~
+   16  echo $PATH
+   17  ls -l
+   18  mkdir mans_pirmais_skripts.sh
+   19  ls -l
+   20  git clone https://github.com/trusovsmarcis/RTR105
+   21  ls -l
+   22  cd RTR105/
+   23  ls -l
+   24  nano README.md
+   25  nano git-upload
+   26  ls -l
+   27  chmod 764 git-upload
+   28  ls -l
+   29  history
+   30  history > history_20180920.txt
