@@ -19,4 +19,4 @@ mkdir <nosauk.> - izveidot direktoriju
 nano <nosauk> - teksta redaktors
 chmod - mainīt piekļuves failam (764 palaišanai)
 mv - mainīt faila lokāciju. Lai mainītu faila nosaukumu mainīt lokāciju uz vietas ar citu nosaukumu.
-
+nano_apt-get_install_git
