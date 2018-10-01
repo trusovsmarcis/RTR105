@@ -20,3 +20,11 @@ nano <nosauk> - teksta redaktors
 chmod - mainīt piekļuves failam (764 palaišanai)
 mv - mainīt faila lokāciju. Lai mainītu faila nosaukumu mainīt lokāciju uz vietas ar citu nosaukumu.
 nano_apt-get_install_git
+print(a.__doc__) - apskatīt mainīgā info.
+vars () - apskatīt mainīgos
+ exit () - iziet no interpretatora
+  python - palaist interpretatoru.
+  ipython - labaks interpretators
+#!/usr/bin/python - norada faila sakuma interpretatoru
+  
+  
