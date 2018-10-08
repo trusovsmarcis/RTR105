@@ -26,5 +26,14 @@ vars () - apskatīt mainīgos
   python - palaist interpretatoru.
   ipython - labaks interpretators
 #!/usr/bin/python - norada faila sakuma interpretatoru
-  
-  
+"simbols" = "vērtība" - definē vērtību
+print("vērtība") - izvada uz ekrāna vērtību
+"simbols" = input("teksts") - izvada uz ekrāna tekstu un paņem no usera vērtību.
+Matemātiskās darbības tādas pašas, izņemot kāpināšanu - **
+% - pārpalikums (remainder)
+Klasses:
+Str - String (teksts)
+int - vesels skaitlis
+float - decimāls
+type(simbols)
+<class'tips'> - mainīt vērtības tipu.
